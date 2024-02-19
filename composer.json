@@ -37,8 +37,8 @@
     "dbrekelmans/bdi": "^1.0",
     "mink/driver-testsuite": "dev-master",
     "phpunit/phpunit": "~8.5|~9.3",
-    "symfony/dom-crawler": "~4.0|~5.0|~6.0",
-    "symfony/http-kernel": "~4.0|~5.0|~6.0"
+    "symfony/dom-crawler": "~4.0|~5.0|~6.0|~7.0",
+    "symfony/http-kernel": "~4.0|~5.0|~6.0|~7.0"
   },
   "scripts": {
       "qa": ""
